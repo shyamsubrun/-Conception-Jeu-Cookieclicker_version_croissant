@@ -25,8 +25,3 @@ Ce projet Java pour Android vise à créer une version simplifiée du jeu "Crois
 6. **Sauvegarde et Restauration de l'État de l'Application:**
    - Mise en place de la sauvegarde de l'état actuel du jeu.
    - Restauration de cet état lors de changements d'orientation de l'écran pour offrir une expérience utilisateur fluide.
-
-### Objectif Pédagogique:
-Le projet vise à évaluer la capacité à développer des fonctionnalités interactives sur Android, en mettant particulièrement l'accent sur la gestion d'interface utilisateur, la manipulation d'événements, et la sauvegarde d'état dans le contexte d'une application de jeu simple.
-
-**Note:** Les détails spécifiques sur la manière de tester l'application ont été omis pour se concentrer sur les compétences utilisées dans le projet.
